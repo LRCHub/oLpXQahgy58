@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マシかもしれない",
+  "base_artist": "眞名子 新",
+  "createdAt": "2026-01-02T05:57:31.146443Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マシかもしれない",
+      "artist": "眞名子 新",
+      "has_synced": false,
+      "path": "select/pl_01_マシかもしれない_眞名子_新.txt"
+    }
+  ]
+}
